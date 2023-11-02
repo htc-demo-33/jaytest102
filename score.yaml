@@ -20,8 +20,6 @@ resources:
     type: dns
   herbert:
     type: mysql
-  cachy:
-    type: redis
   route:
     type: route
     params:
